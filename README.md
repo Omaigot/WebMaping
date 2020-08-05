@@ -274,6 +274,12 @@ curl -v 'http://localhost:8000/api/v1/scan/hackthebox.xml/10.10.10.87?token=<tok
 - [API cve.circl.lu](https://cve.circl.lu)
 - [vis.js](http://visjs.org/)
 
+## CONTRIBUTORS
+
+- [theMiddle](https://github.com/theMiddleBlue)
+- [rom3ocrash](https://github.com/rom3ocrash)
+  - [#62](https://github.com/Rev3rseSecurity/WebMap/pull/62)
+
 ## Security Issues
 This app is not intended to be exposed to the internet, but to be used as localhost web application. Please, **DO NOT expose** this app to the internet, use your localhost or, 
 in case you can't do it, take care to filter who and what can access to WebMap with a firewall rule or something like that. 
