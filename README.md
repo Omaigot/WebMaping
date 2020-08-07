@@ -17,13 +17,6 @@ A Web Dashbord for Nmap XML Report
 - [Contributors](#contributors)
 - [Contacts](#contacts)
 
-
-## Screenshot
-<img src="https://i.imgur.com/ELZfqd0.png" /><br>
-<img src="https://i.imgur.com/KsBv1S0.png" /><br>
-<img src="https://i.imgur.com/g27mcc3.png" /><br>
-<br>
-
 ## Usage
 You should use this with docker, just by sending this command:
 ```bash
