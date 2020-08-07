@@ -1,7 +1,3 @@
-<p align="center">
-<img width="300" src="https://i.imgur.com/puyIfHT.jpg" /><br>
-A Web Dashbord for Nmap XML Report 
-</p>
 
 ## Table Of Contents
 - [Usage](#usage)
@@ -96,9 +92,6 @@ You love WebMap and you know python? We need your help! This is what we want dep
 - Add new Network View
 - Add RESTful API
 
-## PDF Report
-![WebMap](https://i.imgur.com/alWZix9.png)
-
 ## XML Filenames
 When creating the PDF version of the Nmap XML Report, the XML filename is used as document title on the first page. 
 WebMap will replace some parts of the filename as following:
@@ -113,9 +106,6 @@ PDF title: `ACME Ltd.`
 thanks to the amazing API services by circl.lu, WebMap is able to looking for CVE and Exploits for each CPE collected by Nmap. 
 Not all CPE are checked over the circl.lu API, but only when a specific version is specified 
 (for example: `cpe:/a:microsoft:iis:7.5` and not `cpe:/o:microsoft:windows`).
-
-## Network View
-![WebMap](https://i.imgur.com/j77jQz9.png)
 
 ## RESTful API
 From `v2.1` WebMap has a RESTful API frontend that makes users able to query their scan files with something like:
