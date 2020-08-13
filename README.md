@@ -4,7 +4,6 @@
 - [Features](#features)
 - [XML Filenames](#xml-filenames)
 - [CVE and Exploits](#cve-and-exploits)
-- [Network View](#network-view)
 - [RESTful API](#restful-api)
 - [Third Parts](#third-parts)
 - [Security Issues](#security-issues)
