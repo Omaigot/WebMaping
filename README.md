@@ -2,7 +2,6 @@
 ## Table Of Contents
 - [Usage](#usage)
 - [Features](#features)
-- [PDF Report](#pdf-report)
 - [XML Filenames](#xml-filenames)
 - [CVE and Exploits](#cve-and-exploits)
 - [Network View](#network-view)
