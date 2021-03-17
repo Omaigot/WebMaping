@@ -7,8 +7,8 @@
 - [RESTful API](#restful-api)
 - [Third Parts](#third-parts)
 - [Security Issues](#security-issues)
-- [Contributors](#contributors)
-- [Contacts](#contacts)
+
+
 
 ## Usage
 You should use this with docker, just by sending this command:
@@ -247,12 +247,6 @@ curl -v 'http://localhost:8000/api/v1/scan/hackthebox.xml/10.10.10.87?token=<tok
 - [Wkhtmltopdf](https://wkhtmltopdf.org)
 - [API cve.circl.lu](https://cve.circl.lu)
 - [vis.js](http://visjs.org/)
-
-## CONTRIBUTORS
-
-- [theMiddle](https://github.com/theMiddleBlue)
-- [rom3ocrash](https://github.com/rom3ocrash)
-  - [#62](https://github.com/Rev3rseSecurity/WebMap/pull/62)
 
 ## Security Issues
 This app is not intended to be exposed to the internet, but to be used as localhost web application. Please, **DO NOT expose** this app to the internet, use your localhost or, 
